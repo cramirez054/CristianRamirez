@@ -1,0 +1,6 @@
+c:\users\programacion\documents\visual studio 2013\Projects\Laboratorio 3 Estudiante\Laboratorio 3 Estudiante\bin\Debug\Laboratorio 3 Estudiante.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\Laboratorio 3 Estudiante\Laboratorio 3 Estudiante\obj\Debug\Laboratorio 3 Estudiante.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\Laboratorio 3 Estudiante\Laboratorio 3 Estudiante\bin\Debug\Laboratorio 3 Estudiante.exe
+c:\users\programacion\documents\visual studio 2013\Projects\Laboratorio 3 Estudiante\Laboratorio 3 Estudiante\bin\Debug\Laboratorio 3 Estudiante.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\Laboratorio 3 Estudiante\Laboratorio 3 Estudiante\obj\Debug\Laboratorio 3 Estudiante.exe
+c:\users\programacion\documents\visual studio 2013\Projects\Laboratorio 3 Estudiante\Laboratorio 3 Estudiante\obj\Debug\Laboratorio 3 Estudiante.pdb
